@@ -4,3 +4,7 @@ This lines added to test merge command on GIT.
 
 
 This is to merge with fast forward option
+
+this is to merge to main branch with no fast forward option.
+
+
