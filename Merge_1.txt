@@ -1,3 +1,6 @@
 Hi 
 
 This lines added to test merge command on GIT.
+
+
+This is to merge with fast forward option
